@@ -1,0 +1,11 @@
+C:\Users\Albert-Desktop\source\repos\Contact\Contact\bin\Debug\netcoreapp2.0\Contact.deps.json
+C:\Users\Albert-Desktop\source\repos\Contact\Contact\bin\Debug\netcoreapp2.0\Contact.runtimeconfig.json
+C:\Users\Albert-Desktop\source\repos\Contact\Contact\bin\Debug\netcoreapp2.0\Contact.runtimeconfig.dev.json
+C:\Users\Albert-Desktop\source\repos\Contact\Contact\bin\Debug\netcoreapp2.0\Contact.dll
+C:\Users\Albert-Desktop\source\repos\Contact\Contact\obj\Debug\netcoreapp2.0\Contact.csprojResolveAssemblyReference.cache
+C:\Users\Albert-Desktop\source\repos\Contact\Contact\obj\Debug\netcoreapp2.0\Contact.csproj.CoreCompileInputs.cache
+C:\Users\Albert-Desktop\source\repos\Contact\Contact\obj\Debug\netcoreapp2.0\Contact.AssemblyInfoInputs.cache
+C:\Users\Albert-Desktop\source\repos\Contact\Contact\obj\Debug\netcoreapp2.0\Contact.AssemblyInfo.cs
+C:\Users\Albert-Desktop\source\repos\Contact\Contact\bin\Debug\netcoreapp2.0\Contact.pdb
+C:\Users\Albert-Desktop\source\repos\Contact\Contact\obj\Debug\netcoreapp2.0\Contact.dll
+C:\Users\Albert-Desktop\source\repos\Contact\Contact\obj\Debug\netcoreapp2.0\Contact.pdb
